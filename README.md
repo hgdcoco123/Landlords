@@ -3,7 +3,6 @@
 
 
 
-> Written with [StackEdit中文版](https://stackedit.cn/).
 # 斗地主游戏核心逻辑与实现方案
 
 ## 一、核心逻辑概览
