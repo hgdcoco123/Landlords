@@ -1,0 +1,9 @@
+C:/Users/lipinzheng/Documents/Landlords/build/Desktop_Qt_6_9_3_MinGW_64_bit-Release/CMakeFiles/Landlords.dir
+C:/Users/lipinzheng/Documents/Landlords/build/Desktop_Qt_6_9_3_MinGW_64_bit-Release/CMakeFiles/edit_cache.dir
+C:/Users/lipinzheng/Documents/Landlords/build/Desktop_Qt_6_9_3_MinGW_64_bit-Release/CMakeFiles/rebuild_cache.dir
+C:/Users/lipinzheng/Documents/Landlords/build/Desktop_Qt_6_9_3_MinGW_64_bit-Release/CMakeFiles/list_install_components.dir
+C:/Users/lipinzheng/Documents/Landlords/build/Desktop_Qt_6_9_3_MinGW_64_bit-Release/CMakeFiles/install.dir
+C:/Users/lipinzheng/Documents/Landlords/build/Desktop_Qt_6_9_3_MinGW_64_bit-Release/CMakeFiles/install/local.dir
+C:/Users/lipinzheng/Documents/Landlords/build/Desktop_Qt_6_9_3_MinGW_64_bit-Release/CMakeFiles/install/strip.dir
+C:/Users/lipinzheng/Documents/Landlords/build/Desktop_Qt_6_9_3_MinGW_64_bit-Release/CMakeFiles/Landlords_autogen_timestamp_deps.dir
+C:/Users/lipinzheng/Documents/Landlords/build/Desktop_Qt_6_9_3_MinGW_64_bit-Release/CMakeFiles/Landlords_autogen.dir
